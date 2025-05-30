@@ -1,0 +1,4 @@
+
+ function comprar() {
+    alert("Obrigado pela sua compra! Entraremos em contato para finalizar.");
+}
