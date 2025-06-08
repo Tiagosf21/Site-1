@@ -2,8 +2,8 @@
 
     body {
     font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
+    margin: 5;
+    padding: 2;
     background-color: #f9f9f9;
 }
 
@@ -58,8 +58,8 @@ button:hover {
 }
 
 footer {
-    background-color: #333;
-    color: white;
+    background-color: #444;
+    color: black;
     padding: 10px;
     text-align: center;
 }
